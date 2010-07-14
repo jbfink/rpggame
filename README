@@ -1,0 +1,7 @@
+Attempt to mess with Class and inheritance, this is a very basic random character generator for a role playing game. OK?
+
+Things to do:
+
+Make a Class character with attributes (Strength, Endurance, Dexterity, Intelligence, Wisdom, Charisma), an array with alignments, an array with races and an array with classes.  Maybe top it off with a string for description.
+
+After the class is solid and you can generate new characters by using a method, work out some way to randomly generate each stat.  And for extra sugar, have it all write out to a text file!  Badass!
