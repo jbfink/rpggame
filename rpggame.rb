@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 class Character
    def initialize(name, strength, dexterity, constitution, intelligence, wisdom, charisma, alignment, cclass, race)
 	@name = name
