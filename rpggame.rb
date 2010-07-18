@@ -7,7 +7,9 @@ class Test
    def sheet
       "This is #@name, who is a/an #@occupation"
 end
-
+def to_a
+    #almost there, I swear it.
+end
   end
 end
 class Character
