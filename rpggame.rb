@@ -4,6 +4,10 @@ class Test
    def initialize(name, occupation)
    @name = name
    @occupation = occupation
+   def sheet
+      "This is #@name, who is a/an #@occupation"
+end
+
   end
 end
 class Character
