@@ -6,11 +6,10 @@ class Test
    @occupation = occupation
    def sheet
       "This is #@name, who is a/an #@occupation"
+#wtf is this shit?  Only the last def picks up on the instance variables?  Why???
 end
 def to_a
-#the problem is what, that the @variables are not visible outside the initialize method? right?
- %w{#@name #@occupation}
+%w{#@name #@occupation}
+end
 end
   end
-end
-
